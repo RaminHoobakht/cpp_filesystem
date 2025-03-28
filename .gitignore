@@ -3,7 +3,6 @@
 /cmake-build-debug/
 /.cache/
 /.idea/
-
 # Prerequisites
 *.d
 
@@ -36,3 +35,7 @@
 *.exe
 *.out
 *.app
+
+# Other text files
+*.txt
+*.user
